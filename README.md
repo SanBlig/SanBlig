@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Sanjana! 👋
+
+🌩️ I work as a Salesforce developer  
+👩‍💻 I studied Computer Science  
+😄 Pronouns: she/her/hers  
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/sanjanabaliga/)
+
 
 <!--
 **SanBlig/SanBlig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
