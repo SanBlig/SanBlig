@@ -4,7 +4,6 @@
 👩‍💻 I studied Computer Science  
 😄 Pronouns: she/her/hers  
 
-Here's my [GitHub Pages site](https://sanblig.github.io/).  
 You can find me on [LinkedIn](https://www.linkedin.com/in/sanjanabaliga/).
 
 
