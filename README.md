@@ -1,7 +1,8 @@
 # Hi, I'm Sanjana! 👋
 
+🧠 I’m currently learning Machine Learning!  
 🌩️ I work as a Salesforce developer  
-👩‍💻 I studied Computer Science  
+👩‍💻 I studied Computer Science and Engineering  
 😄 Pronouns: she/her/hers  
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/sanjanabaliga/).
