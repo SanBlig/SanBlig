@@ -1,8 +1,9 @@
 # Hi, I'm Sanjana! 👋
 
-🧠 I’m currently learning Machine Learning!  
-🌩️ I work as a Salesforce developer  
-👩‍💻 I studied Computer Science and Engineering  
+👩‍💻 I'm pursuing a Master's in Computer Science with a specialization in Artificial Intelligence at the University of Southern California
+
+🌩️ I was previously at PricewaterhouseCoopers as a technology consultant in the Salesforce domain
+
 😄 Pronouns: she/her/hers  
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/sanjanabaliga/).
