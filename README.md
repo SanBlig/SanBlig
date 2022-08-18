@@ -1,8 +1,6 @@
 # Hi, I'm Sanjana! 👋
 
-👩‍💻 I'm pursuing a Master's in Computer Science with a specialization in Artificial Intelligence at the University of Southern California
-
-🌩️ I was previously at PricewaterhouseCoopers as a technology consultant in the Salesforce domain
+👩‍💻 I'm pursuing a Master's in Computer Science at the University of Southern California
 
 😄 Pronouns: she/her/hers  
 
